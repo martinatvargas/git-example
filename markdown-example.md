@@ -36,4 +36,5 @@ The actual numbering doesn't matter:
 
 > Block quote.
 
+> This is my addition to the document here.
 ----
